@@ -1,16 +1,17 @@
-### Hi there 👋
+  <h1 style="text-align:center">HI THERE👋 I'M TAMA</h1>
 
-<!--
-**tampham51201/tampham51201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Something about me ️🎅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Viet Nam
+- 🌱 I’m currently learning Viet Nam
+- 🍞 All of my projects are available at https://github.com/tampham51201
+- ⚡ Fun fact: I'm waiting for my love
+
+Latest Projects 📚
+
+- <a href="https://tampham51201.github.io/Tama-Shop/">Tama Shop</a>
+
+
+
+
