@@ -10,6 +10,11 @@ About me ️🎅
 My Projects 📚
 
 - <a href="https://tampham51201.github.io/Tama-Shop/">Tama Shop</a>
+-
+- <a href="https://tampham51201.github.io/TamaPersonalPortfolio//">Tama Personal Portfolio</a>
+
+
+
 
 
 <br/>
