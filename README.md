@@ -9,7 +9,7 @@ About me ️🎅
 
 My Projects 📚
 
-- <a href="https://tampham51201.github.io/Music-Miraculous//">Music-Miraculous</a>
+- <a href="https://tampham51201.github.io/Music-Miraculous/">Music-Miraculous</a>
 
 - <a href="https://tampham51201.github.io/SeftTaught-Sass/">SeftTaught-Sass</a>
 
